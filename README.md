@@ -10,18 +10,18 @@
 - 🎨 J'adore les animations, les effets visuels et les designs immersifs  
 
 ## 💻 Technologies & Outils  
-- **Front-End** : HTML, CSS, JavaScript  
-- **ChatBots** : JavaScript, Node.js, Telegram API, OpenAI API  
-- **Déploiement** : Render, Vercel, Pella....
+- **Front-End** : HTML, CSS, JavaScript, python...
+- **ChatBots** : JavaScript, Node.js, Telegram API, OpenAI API , Groq API, Facebook API...
+- **Déploiement** : Render, Vercel, Pella...
 
 ## 🌐 Projects  
-🔹 [Mon site IA](https://ronald-multi-ia.vercel.app/) - Génération d'images IA sans API  
+🔹 [Mon site IA](https://ronald-multi-ia.vercel.app/) - Mes IA
 🔹 [Bot Facebook](https://www.facebook.com/ronald.sory.bot) - Bot avancé pour la gestion de groupes  
-🔹 [Bot Telegram](#) - Assistant intelligent automatisé  
+🔹 [Bot Telegram](https://t.me/ronald_chatbot_bot) - Assistant intelligent automatisé  
 
 ## 📫 Contact  
 📩 **Email** : [Ronald sory](mailto:ronaldsory8@gmail.com)  
 🥷🏼 **Facebook** : [RONALD SORY ホ](https://www.facebook.com/SORY.RONALD)  
-✈️ **Telegram** : [linkedin.com/in/TonNom](https://t.me/Alexandreronaldsory)  
+✈️ **Telegram** : [Ronald sory](https://t.me/RonaldAlexandreSory)  
 
 🚀 **Let's build the future together!**
