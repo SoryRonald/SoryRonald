@@ -15,9 +15,8 @@
 - **Déploiement** : Render, Vercel, Pella...
 
 ## 🌐 Projects  
-- 🔹 [Mon site IA](https://ronald-multi-ia.vercel.app/)  Mes IA
+- 🔹 [Mon portfolio](https://ronald-service.pages.dev/)  Mes IA
 - 🔹 [Bot Facebook](https://www.facebook.com/ronald.sory.bot) Bot avancé pour la gestion de groupes  
-- 🔹 [Bot Telegram](https://t.me/ronald_chatbot_bot)  Assistant intelligent automatisé  
 
 ## 📫 Contact  
 📩 **Email** : [Ronald sory](mailto:ronaldsory8@gmail.com)  
