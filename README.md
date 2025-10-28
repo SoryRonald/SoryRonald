@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoryRonald&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoryRonald&layout=compact&theme=radical" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/status/up/?username=SoryRonald&layout=compact&theme=radical
 </p>
 
 
