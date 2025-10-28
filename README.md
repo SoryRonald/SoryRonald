@@ -32,9 +32,9 @@
 
 ### 🧠 À propos
 - 🌱 J’apprends actuellement **React, Node.js, et l’IA créative**
-- 🎵 Passion : **musique afrobeat, art numérique et innovation**
-- 🚀 Objectif 2025 : **lancer un projet open source artistique**
-- 🧰 Outils favoris : `JavaScript` · `Python` · `HTML/CSS` · `Figma`
+- 🤍 Passion : **art numérique et innovation**
+- 🚀 Objectif 2025 : **focus sur mon objectif**
+- 🧰 Outils favoris : `JavaScript` · `Python` · `HTML/CSS` 
 
 ### ☕ Citation du jour
 > *« La créativité, c’est l’intelligence qui s’amuse. » – Albert Einstein*
